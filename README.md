@@ -1,3 +1,5 @@
-WElcome to my Personal Portfolio Page
+Welcome to my Personal Portfolio Page
+<br>
 Visit the live site 
-www.rezzaernest.com
+ <br>
+https://www.rezzaernest.com/
